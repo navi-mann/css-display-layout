@@ -32,7 +32,8 @@ background-color: teal;
 text-align:left;
 padding: 10 5;
 margin: 10 5;
-
+display: block;
+min-width:250px
 }
 b {
   text-decoration: underline yellow;
@@ -40,7 +41,8 @@ b {
 
 main {
   margin: auto;
-  width: 760px;
+  width: 70%;
+  max-width:760px;
 
 }
 
